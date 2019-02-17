@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: http://butael.com
 
-url: http://butael.com
+url: https://butael.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
