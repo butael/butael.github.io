@@ -3,7 +3,7 @@ name: Daniel Butael
 bio: CS Major and Track & Field Varsity Athlete at the University of Michigan.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description:
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,9 +35,9 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: butael
-twitter: itsdanieltale
+twitter: danielbutael
 # google: mygoogle
-instagram: itsdanieltale
+instagram: butael
 # pinterest: mypinterest
 linkedin: butael
 # youtube: myyoutube
